@@ -1,6 +1,8 @@
 <!-- Ctrl + Shift + V to preview :) -->
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Encr1pt0r/Encr1pt0r" alt="Encr1pt0r">    
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Encr1pt0r/Encr1pt0r" alt="Encr1pt0r">    
+
+<hr>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,9 +10,10 @@
   </a>
 </h1>
    
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<h3 align="center">About Me <img src="/images/Developer.gif" alt="dev gif"  height="45px">  
+</h3>
 <p align="center">
-  Hi, I'm Kevin Mbuluko, Software Developer from United Kingdom
+  <b>Hi, I'm Kevin Mbuluko, Software Developer from United Kingdom</b>
   <br>
   <br>
   👨‍🎓 I graduated from Kingston University in Computer Science in 2021 and recently started working as a Cloud Developer at Cegedim Healthcare Solutions
@@ -18,9 +21,9 @@
   💻 I love learning more about coding and pushing myself into new heights
   <br>
   📚 I’m currently focusing on back-end development with Node.js
-  <br>
-  📫 How to reach me 👇
 </p>
+
+<h4 align="center">📫 How to reach me 👇</h4>
 <p align="center"> <a href="https://www.linkedin.com/in/kevinmbuluko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:presidor16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
@@ -47,13 +50,10 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
-
-
-[![Encr1pt0r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Encr1pt0r)](https://github.com/Encr1pt0r)
-<p align="center">
-
+<a href="https://github.com/Encr1pt0r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Encr1pt0r" />
+</a>
 
 <!-- <a href="https://github.com/HalemoGPA/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> -->
@@ -79,9 +79,7 @@
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
 </p> -->
 
-<p  align="center">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Encr1pt0r/Encr1pt0r" alt="Encr1pt0r">      
-</p>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Encr1pt0r/Encr1pt0r" alt="Encr1pt0r">      
 
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

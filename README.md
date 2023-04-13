@@ -1,5 +1,6 @@
+<!-- Ctrl + Shift + V to preview :) -->
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Encr1pt0r/Encr1pt0r" alt="Encr1pt0r">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -50,9 +51,12 @@
 
 
 
+[![Encr1pt0r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Encr1pt0r)](https://github.com/Encr1pt0r)
 <p align="center">
-<a href="https://github.com/HalemoGPA/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+
+
+<!-- <a href="https://github.com/HalemoGPA/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> -->
  </a>
 </p>
 
@@ -71,12 +75,12 @@
 </p>
 
 <hr>
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
-</p>
+</p> -->
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Encr1pt0r/Encr1pt0r" alt="Encr1pt0r">      
 </p>
 
 <!---

@@ -16,7 +16,7 @@
   <b>Hi, I'm Kevin Mbuluko, Software Developer from United Kingdom</b>
   <br>
   <br>
-  👨‍🎓 I graduated from Kingston University in Computer Science in 2021 and recently started working as a Cloud Developer at Cegedim Healthcare Solutions
+  👨‍🎓 I graduated from Kingston University in Computer Science in 2021 and currently working as a Cloud Developer at Cegedim Healthcare Solutions
   <br>
   💻 I love learning more about coding and pushing myself into new heights
   <br>

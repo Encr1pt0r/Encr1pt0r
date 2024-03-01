@@ -3,12 +3,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Encr1pt0r/Encr1pt0r" alt="Encr1pt0r">    
 
 <hr>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+code+space+%F0%9F%98%81" alt="Typing SVG" />
-  </a>
-</h1>
    
 <h3 align="center">About Me <img src="/images/Developer.gif" alt="dev gif"  height="45px">  
 </h3>
